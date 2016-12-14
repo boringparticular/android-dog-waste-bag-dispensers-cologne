@@ -2,4 +2,14 @@
     <string name="app_name">Hundekottütenspender Köln</string>
     <string name="title_activity_maps">Hundekottütenspender Köln</string>
     <string name="imprint">Impressum</string>
+    <string name="imprint_header">Impressum</string>
+    <string name="imprint_license_text">Die Standorte der Hundekottütenspender werden von der AWB Abfallwirtschaftsbetriebe Köln GmbH angeboten.\nDie Daten unterliegn der Creative Commons Namensnennung 3.0 DE Lizenz.</string>
+    <string name="btn_source_code">Quelltext</string>
+    <string name="btn_twitter">Twitter</string>
+    <string name="btn_linkedin">LinkedIn</string>
+    <string name="btn_website">Webseite</string>
+    <string name="data_url" formatted="false">https://www.offenedaten-koeln.de/dataset/hundekott%C3%BCtenspender-k%C3%B6ln</string>
+    <string name="license_url">https://creativecommons.org/licenses/by/3.0/de/</string>
+    <string name="btn_data">Standortdaten</string>
+    <string name="btn_license">Lizenz</string>
 </resources>

@@ -28,6 +28,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".ImprintActivity"
+            android:label="@string/imprint"
             android:parentActivityName=".MapsActivity"/>
     </application>
 
